@@ -1,4 +1,4 @@
-# Adobe XD
+# 2.1 Adobe XD
 *Till Köster & Fabian Flaig*<br><br>
 **Allgemeine Beschreibung:**
 was zeichnet das Werkzeug aus, was sind die Kernfeatures?
@@ -26,3 +26,6 @@ Im vergleich zu anderen Adobe Anwendungen ist XD relativ übersichtlich und einf
 *Grenzen:* 
 Adobe XD hat keinen CSS Export. Diese Funktion würde es sehr einfach machen einen Entwurf direkt in eine CSS Datei umzuwandeln und auf der zu entwickelnden Website direkt einzubinden.
 
+
+# 2.2 Konzeptentwurf
+![](https://github.com/tillkoester/IFD-SoSe20/blob/master/GUI_scribble.jpg)
