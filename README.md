@@ -5,5 +5,5 @@
 [Aufgabe #01](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%2301.pdf)<br>
 [Aufgabe #02](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe2.md)<br>
 [Aufgabe #03](https://rltxef.axshare.com/#id=hwe6jg&p=overview)<br>
-[Aufgabe #04](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%2401.pdf)<br>
+[Aufgabe #04](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%20%2304.jpg)<br>
 
