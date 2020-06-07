@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Google Office Assistant</title>
+    <link rel="stylesheet" type="text/css" href="assistant.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+</head>
+<body>
+    <center><h4 id="top">Google Office Assistant</h4> </center>
+     <center>
+        <div class="blue"></div>
+        <div class="green"></div>
+        <div class="red"></div>
+        <div class="yellow"></div>
+        
+        
+        </center>
+        <center><h3>Der intelligente <br />Sprachassistent für<br />ihren Büroalltag</h3></center>
+        <center><h4><button id="btn">Start</button></h4> </center>
+    
+    
+
+   
+    <script>
+        var Jarvis = new Artyom();
+        
+        // Needed user interaction at least once in the website to make
+        // it work automatically without user interaction later... thanks google .i.
+        document.getElementById("btn").addEventListener("click", function(){
+        Jarvis.say("");
+        }, false);
+    </script>
+</body>
+</html>
