@@ -8,3 +8,5 @@
 [Aufgabe #04](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%20%2304.jpg)<br>
 [Aufgabe #05](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%2305.mp4)<br>
 [Aufgabe #06](https://github.com/tillkoester/IFD-SoSe20/tree/master/Aufgabe%20%2306)<br>
+[Aufgabe #07](https://github.com/tillkoester/IFD-SoSe20/tree/master/Aufgabe%20%2306)<br>
+[Aufgabe #08](https://www.youtube.com/watch?v=0ZRZXo_nkuA)<br>
