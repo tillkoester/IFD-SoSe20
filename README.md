@@ -1,12 +1,140 @@
-# IFD-SoSe20
+<!DOCTYPE HTML>
 
+<html>
+	<head>
+		<title>IFD-SoSe20</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-[Aufgabe #00](https://github.com/tillkoester/IFD-SoSe20/blob/master/SWOT-Analyse.pdf)<br>
-[Aufgabe #01](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%2301.pdf)<br>
-[Aufgabe #02](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe2.md)<br>
-[Aufgabe #03](https://rltxef.axshare.com/#id=hwe6jg&p=overview)<br>
-[Aufgabe #04](https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%20%2304.jpg)<br>
-[Aufgabe #05](https://www.youtube.com/watch?v=L8_lfIzpJ44)<br>
-[Aufgabe #06](https://github.com/tillkoester/IFD-SoSe20/tree/master/Aufgabe%20%2306)<br>
-[Aufgabe #07](https://youtu.be/B1pAi6CpcuM)<br>
-[Aufgabe #08](https://www.youtube.com/watch?v=0ZRZXo_nkuA)<br>
+				
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header>
+								<h1>Interface Design - Sommersemester 2020</h1>
+								
+							</header>
+							<section class="tiles">
+								<article class="style1">
+									<span class="image">
+										<img src="images/a00.png" alt="" />
+									</span>
+									<a href="https://github.com/tillkoester/IFD-SoSe20/blob/master/SWOT-Analyse.pdf">
+										<h2>Aufgabe #00 - SWOT-Analyse</h2>
+										<div class="content">
+											<p>Nach unserem KickOff Meeting hatten wir die Aufgabe unsere Stärken und unsere Schwächen sowie die Chancen und Risiken die wir mit diesem Kurs und dem kommenden Semester verbinden in einer SWOT-Analyse darzustellen.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/a01.png" alt="" />
+									</span>
+									<a href="https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%2301.pdf">
+										<h2>Aufgabe #01 - The Wallet Project</h2>
+										<div class="content">
+											<p>Entwerfen eines optimalen Geldbeutels anhand des Design Thinking Prozess.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/a02.png" alt="" />
+									</span>
+									<a href="https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe2.md">
+										<h2>Aufgabe #02 - Prototyping</h2>
+										<div class="content">
+											<p>Hier war unsere Aufgabe sich mit einem Prototyping-Tool näher auseinanderzusetzen. </p>
+										</div>
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/a03.png" alt="" />
+									</span>
+									<a href="https://rltxef.axshare.com/#id=hwe6jg&p=overview">
+										<h2>Aufgabe #03 - High-Fid Prototype</h2>
+										<div class="content">
+											<p>Erstellen eines High-Fid Prototype mit Hilfe von Axure.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/a04.png" alt="" />
+									</span>
+									<a href="https://github.com/tillkoester/IFD-SoSe20/blob/master/Aufgabe%20%2304.jpg">
+										<h2>Aufgabe #04 - Voice User Interface Konzeptentwurf</h2>
+										<div class="content">
+											<p>Konzeptentwurf einens Sprachassistenten für den Büroalltag.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style6">
+									<span class="image">
+										<img src="images/a05.png" alt="" />
+									</span>
+									<a href="https://www.youtube.com/watch?v=L8_lfIzpJ44">
+										<h2>Aufgabe #05 - Voice User Interface Prototype</h2>
+										<div class="content">
+											<p>Prototyp eines Sprachassistenten für den Büroalltag.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/a06.png" alt="" />
+									</span>
+									<a href="https://github.com/tillkoester/IFD-SoSe20/tree/master/Aufgabe%20%2306">
+										<h2>Aufgabe #06 - VR Cardboard Brille</h2>
+										<div class="content">
+											<p>Basteln einer VR-Brille aus Pappe.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/a07.gif" alt="" />
+									</span>
+									<a href="https://www.youtube.com/watch?v=B1pAi6CpcuM&feature=youtu.be">
+										<h2>Aufgabe #07 - Virtual Immersive Lecture</h2>
+										<div class="content">
+											<p>Erweitern des Inhaltes einer VR-Vorlesung mit Davinci Resolve.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style1">
+									<span class="image">
+										<img src="images/a08.gif" alt="" />
+									</span>
+									<a href="https://www.youtube.com/watch?v=0ZRZXo_nkuA">
+										<h2>Aufgabe #08 - Virtual Immersive Lecture II</h2>
+										<div class="content">
+											<p>Interaktiver Prototyp einer VR-Vorlesung.</p>
+										</div>
+									</a>
+								</article>
+								
+							</section>
+						</div>
+					</div>
+
+				
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
