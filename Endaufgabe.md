@@ -24,7 +24,13 @@ Person drei schaffte lediglich Aufgabe 1. Ihm war nicht klar, dass er nicht alle
 
 Person 4 schaffte es die Aufgaben in weniger als zwei Minuten zu erledigen. Sie findet, dass eine sehr große Schriftart gewählt wurde und die Darstellung allgemein sehr grob wirkt. Sie merkt an, dass mit einer kleineren Darstellung mehr Information auf der Startseite untergebracht werden könne. Die Aufteilung in Übersicht, Graph und Rohdaten erscheint ihr sinnvoll.
 
-# Top-Findings #
+### Top-Findings ###
+1. Fraben zu kindlich, wirkt unprovessionell
+2. Ankreuzkästchen auf Graph-Unterseite zu umständlich
+3. Drag and Drop nicht selbsterklärend
+4. Zu grobe Darstellung
+
+Mit Hilfe des Nutzertests ist mir schnell klar geworden wo es an meinenm Prototypen noch verbesserungspotential gibt. Ich habe mich dazu entschieden die Farbgebung auf der Startseite nicht so stark in den Mittelpunkt zu stellen und dafür kleinere Elemente zu wählen. Daruch hatte ich mehr Platz um auf der Startseite mehr interessante Informationen unterbringen zu können. 
 
 ## Prototyp Enhancement ## 
 
