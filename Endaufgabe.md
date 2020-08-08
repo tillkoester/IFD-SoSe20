@@ -7,16 +7,17 @@ Um eine Customer Jouney Map anzufertigen bin ich davon ausgegangen, dass das Pro
 
  ## Empirischer Nutzertest ##
 
-
+1. Zielgruppenbestimmung:
+ Die Zielgruppe für dieses Produkt ist relativ groß. Es sind alle Mitarbeiter der Firma die m
+ 
+ Für meinen Nutzertest habe ich 4 Personen unterschiedlichen alters und Geschlecht ausgewählt. Ich habe den Probanten drei Aufgaben gestellt die es während des Tests zu erledigen gilt. Des weiteren habe ich um ihr Feedback und ihre Eindrücke zum Prototyp gebeten.
+ 
+ Aufgabe 1: Wie viele Krankmeldungen gab es heute?
+ Aufgabe 2: 
 
 
 
 
 
 ## Prototyp Enhancement ## 
-Am 30.05.2020 startete das erste Mal eine bemannte Crew Dragon-Kapsel des US-amerikanischen Raumfahrtunternehmens SpaceX und machte sich auf den weg zur internationalen Raumstation ISS. Damit wurde ein weiterer Meilenstein in der bemannten Raumfahrt erzielt, denn noch nie zuvor wurden Persoen von einem privaten Raumfahrtunternehmen ins All geschossen. Vergleicht man das Interface der alten Raumschiffe, mit denen bis heute noch Astronauten ins All befördert werden, merkt man, wie groß der Schritt in die Zukunft ist, den Space mit seiner Crew Dragon gemacht hat. Denn die Technologie der Sojus-Kapsel, mit der die NASA bisher Astronauten zur ISS gebracht hat, wurde größtenteils schon in den 60er-Jahren entwickelt.
-Die Crew Dragon ist in der Lage komplett selbstständig zur ISS zu navigieren. Die im Cockpit verbauten Touchdisplays sind hauptsächlich da um wichtige Informationen rund um den Flug zu erhalten. Dennoch kann die Crew Dragon im Notfall über die Touchscreens manuell gesteuert werden.
 
-![](dragon.jpg)
-
-Quellen: https://www.space.com/spacex-crew-dragon-touchscreen-astronaut-thoughts.html <br> https://www.esa.int/ESA_Multimedia/Images/2014/10/Andreas_and_Gennady_during_training
