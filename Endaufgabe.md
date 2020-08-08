@@ -20,7 +20,11 @@ Person eins erledigt die gestellten Aufgaben innerhalb von ca. 2,5 Minuten. Nach
 
 Person zwei erledigt die gestellten Aufgaben in weniger als einer Minute. Sie merkt, an das Programm sei übersichtlich und man finde sich schnell zurecht. Auch auf sie wirkt die farbenfrohe Übersichtsseite unprofessionell. Die vielen Ankreuzkästchen auf der Graph-Unterseite empfindet die Testperson als umständlich.
 
+Person drei schaffte lediglich Aufgabe 1. Ihm war nicht klar, dass er nicht alle Daten der Startseite entnehmen konnte. Außerdem konnte er mit der Drag and Drop Funktion bei „Neue Datei hinzufügen“ nicht umgehen. Mit etwas Hilfe gelang es ihm dann die Aufgaben 1 und 2 zu erledigen. Ihm gefällt die große Schrift und die übersichtliche Darstellung.
 
+Person 4 schaffte es die Aufgaben in weniger als zwei Minuten zu erledigen. Sie findet, dass eine sehr große Schriftart gewählt wurde und die Darstellung allgemein sehr grob wirkt. Sie merkt an, dass mit einer kleineren Darstellung mehr Information auf der Startseite untergebracht werden könne. Die Aufteilung in Übersicht, Graph und Rohdaten erscheint ihr sinnvoll.
+
+# Top-Findings #
 
 ## Prototyp Enhancement ## 
 
